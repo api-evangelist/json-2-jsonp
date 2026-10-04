@@ -39,7 +39,6 @@ apis:
   - name: JSON 2 JSONP
     description: "Convert JSON to JSONP (on-the-fly) for easy cross-domain data requests using client-side JavaScript"
     humanURL: https://json2jsonp.com/
-    baseURL: https://json2jsonp.com/
     tags:
       - Development
     properties:
